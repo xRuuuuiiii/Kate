@@ -1,0 +1,23 @@
+{
+  "greeting": "Hey",
+  "name": "Jeanne Kate",
+  "greetingText": "Your name suits you perfectly!",
+  "wishText": " - it's truly special. ;)",
+  "imagePath": "img/im1.png",
+  "text1": "It's your lucky day!!! :D",
+  "textInChatBox": "You're the missing piece I never knew I needed.. blah...",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do.",
+  "text3": "But then I stopped.",
+  "text4": "I realised, I wanted to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "The way you smile makes me feel whole.",
+  "outroText": "Okay, now come back and tell me if you love it.",
+  "replayText": "Or click here, if you want to watch it again.",
+  "outroSmiley": ":)"
+}
